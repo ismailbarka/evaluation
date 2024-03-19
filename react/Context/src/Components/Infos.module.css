@@ -1,0 +1,25 @@
+/* Infos.module.css */
+.info_container {
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction:column;
+    width: 50%;
+    background-color: #04AA6D;
+  }
+.imput_container {
+    background-color: #f0f0f0;
+    padding: 5px;
+    margin-bottom: 5px;
+    justify-content: center;
+    align-items:flex-end;
+    display: flex;
+    flex-direction:column;
+  }
+.subButton{
+  background-color: #04AA6D; /* Green */
+
+}
